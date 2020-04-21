@@ -5,4 +5,5 @@ height_in_inches = 72
 height_message = height_in_inches ? "You are taller than average" : "You are not taller than average"
 
 
+puts height_message
 
